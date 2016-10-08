@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">02_Fragment</string>
+    <string-array name="page_name">
+        <item>豆瓣</item>
+        <item>我的</item>
+        <item>讨论</item>
+        <item>设置</item>
+    </string-array>
+</resources>
